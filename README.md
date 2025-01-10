@@ -37,7 +37,7 @@ This project is a simple demo of MetaXsouL AI using Streamlit and Google's Gener
 Make sure to replace the placeholder API key in [MetaXsouL.py](http://_vscodecontentref_/0) with your actual Google Generative AI API key:
 ```python
 genai.configure(api_key="YOUR_API_KEY_HERE")
-## OBB 
+__________________________________________________________________________________________________________________________________________________________
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
